@@ -26,9 +26,9 @@
 [FIX]-----fixed showers/lockers being able to move
 [ADD]-----added vents from morgue to generals office
 [EDIT]----changed roof height in infirmary
-[ADD]-----added vent from huge room to other vent
-[ADD]-----added cell door
-[ADD]-----added 2nd cell door
+[ADD]-----added vent connecting the vent from below to upper machine room
+[ADD]-----added fake cell door
+[ADD]-----added 2nd fake cell door
 [ADD]-----added prop door
 [ADD]-----added area where you can fall down & broken rail bit
 [ADD]-----added another sewer thingy
@@ -37,6 +37,7 @@
 [FIX]-----sealed some areas including sewers, vents and some rooms
 [ADD]-----added sloped roof sides as requested by sputnik
 [FIX]-----fixed being able to psygun grab the prison bed
+[ADD]-----added vent from the south-east office room to the north-east office room
 
 ---------------------------------------------------------------------------------------------------
 #TODO#
@@ -46,10 +47,12 @@
 ✓[ADD]------elevator doors 
 ✓[BUG]------walls in infirmary is getting lit by something
 ✓[FIX]------fix showers 
-[EDIT]------change areas you can't see to nodraw texture{optimize}  | Will take long but is really needed for optimize
-[EDIT]------fix all walls to have better meeting points{optimize}   | Will take long but is worth it for a smoother map
+[EDIT]------change textures you can't see to nodraw texture {optimize}  | Will take long but is really needed for optimize
+[EDIT]------fix all walls to have better meeting points {optimize}   | Will take long but is worth it for a smoother map
 [FIX]-------Seal map so outside wont be drawn | not sure how to do this excpet from sealing all open areas
 [EDIT]------Edit some entrances to rooms to have a curved entrace resulting in a more bunker feeling
+[EDIT]------Edit stair so its steps instead of slope, also fixing non sealed areas at the same time
+
 ---------------------------------------------------------------------------------------------------
 
 #IDEAS & COMMENTS#
@@ -59,5 +62,4 @@
 ####################################################################################################
 X Add gears/machine props at bottom of elevator shaft for a more realistic look | not needed since you cant see down there.
 ####################################################################################################
-looks like elevator has a lamp, light is not on whole prop, just on the parts exposed to the lightbulb
-if i add a light in there to luminate walls it might look more realistic.
+
