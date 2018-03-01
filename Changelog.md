@@ -33,6 +33,7 @@
 [ADD]-----added area where you can fall down & broken rail bit
 [ADD]-----added another sewer thingy
 [ADD]-----added some props in office to later duplicate
+[ADD]-----added 2nd east office room and made it look burnt
 
 ---------------------------------------------------------------------------------------------------
 #TODO#
