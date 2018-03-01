@@ -52,7 +52,7 @@
 [FIX]-------Seal map so outside wont be drawn | not sure how to do this excpet from sealing all open areas
 [EDIT]------Edit some entrances to rooms to have a curved entrace resulting in a more bunker feeling
 [EDIT]------Edit stair so its steps instead of slope, also fixing non sealed areas at the same time
-
+[EDIT]------Edit plank props at gun room to look more realistic
 ---------------------------------------------------------------------------------------------------
 
 #IDEAS & COMMENTS#
