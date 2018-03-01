@@ -42,7 +42,7 @@
 ✓[ADD]------elevator doors 
 ✓[BUG]------walls in infirmary is getting lit by something
 ✓[FIX]------fix showers 
-[EDIT]------change areas you can't see to nodraw texture{optimize}  | 
+[EDIT]------change areas you can't see to nodraw texture{optimize}  | Will take long but is really needed for optimize
 [EDIT]------fix all walls to have better meeting points{optimize}   | Will take long but is worth it for a smoother map
 [FIX]-------Seal map so outside wont be drawn | not sure how to do this excpet from sealing all open areas
 [EDIT]------Edit some entrances to rooms to have a curved entrace resulting in a more bunker feeling
