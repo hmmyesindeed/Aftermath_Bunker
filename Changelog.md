@@ -38,7 +38,7 @@
 [ADD]-----added sloped roof sides as requested by sputnik
 [FIX]-----fixed being able to psygun grab the prison bed
 [ADD]-----added vent from the south-east office room to the north-east office room
-
+[EDIT]----edited the elevator wall to not be so complicated | much more simple since you're not able to be in there
 ---------------------------------------------------------------------------------------------------
 #TODO#
 
