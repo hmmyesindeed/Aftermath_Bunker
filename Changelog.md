@@ -34,6 +34,7 @@
 [ADD]-----added another sewer thingy
 [ADD]-----added some props in office to later duplicate
 [ADD]-----added 2nd east office room and made it look burnt
+[FIX]-----sealed some areas including sewers, vents and some rooms
 
 ---------------------------------------------------------------------------------------------------
 #TODO#
