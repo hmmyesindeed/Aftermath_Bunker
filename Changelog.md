@@ -33,7 +33,6 @@
 [ADD]-----added area where you can fall down & broken rail bit
 [ADD]-----added another sewer thingy
 
-
 ---------------------------------------------------------------------------------------------------
 #TODO#
 
@@ -45,6 +44,7 @@
 [EDIT]------change areas you can't see to nodraw texture{optimize}  | 
 [EDIT]------fix all walls to have better meeting points{optimize}   | Will take long but is worth it for a smoother map
 [FIX]-------Seal map so outside wont be drawn | not sure how to do this excpet from sealing all open areas
+[EDIT]------Edit some entrances to rooms to have a curved entrace resulting in a more bunker feeling
 ---------------------------------------------------------------------------------------------------
 
 #IDEAS & COMMENTS#
