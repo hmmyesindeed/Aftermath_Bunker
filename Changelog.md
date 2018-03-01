@@ -36,6 +36,7 @@
 [ADD]-----added 2nd east office room and made it look burnt
 [FIX]-----sealed some areas including sewers, vents and some rooms
 [ADD]-----added sloped roof sides as requested by sputnik
+[FIX]-----fixed being able to psygun grab the prison bed
 
 ---------------------------------------------------------------------------------------------------
 #TODO#
