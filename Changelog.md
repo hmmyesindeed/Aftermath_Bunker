@@ -37,25 +37,22 @@
 ---------------------------------------------------------------------------------------------------
 #TODO#
 
-✓[FIX]-elevator no-collided 
-✓[FIX]-elevator light problem 
-✓[ADD]-elevator doors 
-✓[BUG]-walls in infirmary is getting lit by something
-✓[FIX]-fix showers 
-[EDIT]-change areas you can't see to nodraw texture{optimize}
-[EDIT]-fix all walls to have better meeting points{optimize}
+✓[FIX]------elevator no-collided 
+✓[FIX]------elevator light problem 
+✓[ADD]------elevator doors 
+✓[BUG]------walls in infirmary is getting lit by something
+✓[FIX]------fix showers 
+[EDIT]------change areas you can't see to nodraw texture{optimize}  | 
+[EDIT]------fix all walls to have better meeting points{optimize}   | Will take long but is worth it for a smoother map
+[FIX]-------Seal map so outside wont be drawn | not sure how to do this excpet from sealing all open areas
 ---------------------------------------------------------------------------------------------------
 
 #IDEAS & COMMENTS#
-Atleast one hole that players can fall through resulting in death
+✓ Atleast one area that players can fall through resulting in death
 ####################################################################################################
-Vent holes, concrete looking but yet bunker themed
+✓ Vent holes, concrete looking but yet bunker themed
 ####################################################################################################
-Morgue hatches Someclosed some slightly open - Maby in 1 a corpse, Hatch sliglty closed so u see it in there
-####################################################################################################
-Maybe add a secret room apart from the existing one?
-####################################################################################################
-Add gears/machine props at bottom of elevator shaft for a more realistic look
+X Add gears/machine props at bottom of elevator shaft for a more realistic look | not needed since you cant see down there.
 ####################################################################################################
 looks like elevator has a lamp, light is not on whole prop, just on the parts exposed to the lightbulb
 if i add a light in there to luminate walls it might look more realistic.
