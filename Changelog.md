@@ -39,6 +39,7 @@
 [FIX]-----fixed being able to psygun grab the prison bed
 [ADD]-----added vent from the south-east office room to the north-east office room
 [EDIT]----edited the elevator wall | simple since you're not able to be in there also ensures that it's sealed.
+[FIX]-----sealed whole map, successfull sealing which resulted in nothing outside map
 ---------------------------------------------------------------------------------------------------
 #TODO#
 
@@ -48,8 +49,7 @@
 ✓[BUG]------walls in infirmary is getting lit by something
 ✓[FIX]------fix showers 
 [EDIT]------change textures you can't see to nodraw texture {optimize}  | Will take long but is really needed for optimize
-[EDIT]------fix all walls to have better meeting points {optimize}   | Will take long but is worth it for a smoother map
-[FIX]-------Seal map so outside wont be drawn | not sure how to do this excpet from sealing all open areas
+✓[FIX]------Seal map so outside wont be drawn | not sure how to do this excpet from sealing all open areas
 [EDIT]------Edit some entrances to rooms to have a curved entrace resulting in a more bunker feeling
 [EDIT]------Edit stair so its steps instead of slope, also fixing non sealed areas at the same time
 [EDIT]------Edit plank props at gun room to look more realistic
